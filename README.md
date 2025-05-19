@@ -6,9 +6,13 @@ Foi desenvolvido com o objetivo de praticar manipulação de strings, uso de map
 
 # Instruções de uso
 Você digita uma string qualquer, e o programa mostra o primeiro caractere que aparece somente uma vez.
+
 Digite uma string: aabbcde 
+
 Primeiro caractere único: c
+
 Digite uma string: aabb
+
 Primeiro caractere único: null
 
 #Processo que ocorre no código:
